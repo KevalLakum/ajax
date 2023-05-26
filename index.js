@@ -14,3 +14,4 @@ let getProducts=async() => {
 }
 getProducts();
 
+console.log("github completed")
